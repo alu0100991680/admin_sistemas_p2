@@ -1,6 +1,9 @@
 # Práctica 2 
 
-Lanzar los scripts en CentOS7 en el orden indicado. Existen scripts que indican pasos adicionales que no pueden ser facilmente automatizables.
+Lanzar los scripts en CentOS7 en el orden indicado. 
+Existen scripts que indican pasos adicionales que no pueden ser facilmente automatizables.
+
+# ES IMPORTANTE MIRAR CON CAT EL SCRIPT ANTES DE LANZARLO !!!
 
 ## Servidor
 
